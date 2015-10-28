@@ -2,8 +2,9 @@ Hello!
 
 Over the next four weeks, we will be working on implementing a Complex number API. Don't
 worry about what this entails. For now, we will be only implementing controller logic, aka
-the actual functionality of the API. Below are a list of functionalities we want you to
-implement:
+the actual functionality of the API. You can do this in whatever language you wish! If you wish to review on complex numbers, you can find a description of them here: http://tutorial.math.lamar.edu/Classes/Alg/ComplexNumbers.aspx
+
+Below are a list of functionalities we want you to implement:
 
 Constructors (make a new complex object, copy constructor)
 Copy (equals) operator
